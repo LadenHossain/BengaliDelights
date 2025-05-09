@@ -20,12 +20,6 @@ This is a responsive and visually appealing **One-Page Restaurant Menu Website**
 - 🔗 Smooth scroll navigation
 
 ## 📷 Live Demo
-[🔗 Visit the Website](https://your-username.github.io/restaurant-menu-site)
+[🔗 Visit the Website](https://bengalidelights.vercel.app/)
 
 ## 🚀 Getting Started
-
-To run the project locally:
-```bash
-git clone https://github.com/your-username/restaurant-menu-site.git
-cd restaurant-menu-site
-open index.html
